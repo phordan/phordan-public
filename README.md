@@ -1,40 +1,9 @@
-# Welcome to Remix!
+# Welcome to phordan-public!
 
-- 📖 [Remix docs](https://remix.run/docs)
+I am [phordan](https://x.com/_phordan), a designer, developer, and musician.
 
-## Development
+This repo contains the source code for my public site, [phordan.com](https://phordan.com), built with react-router v7, React, and TailwindCSS. 
 
-Run the dev server:
+The site serves as my personal reserved space on the internet to record my thoughts and resources about design, animation, development, music production, and more. It's also a place for me to feature my work and share it with the world.
 
-```shellscript
-npm run dev
-```
-
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying Node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `npm run build`
-
-- `build/server`
-- `build/client`
-
-## Styling
-
-This template comes with [Tailwind CSS](https://tailwindcss.com/) already configured for a simple default starting experience. You can use whatever css framework you prefer. See the [Vite docs on css](https://vitejs.dev/guide/features.html#css) for more information.
+I've shared this source code of the live site so that anyone interested can see how it works, explore the components, and get a sense of how this particular solo-dev designed a personal site/webapp.
