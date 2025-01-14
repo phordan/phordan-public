@@ -1,5 +1,5 @@
 node_modules
-
+ecosystem.config.cjs
 /.cache
 /build
 .env
