@@ -2,10 +2,6 @@
 
 @plugin "@tailwindcss/typography";
 
-@config {
-  
-}
-
 html,
 body {
   @media (prefers-color-scheme: dark) {
